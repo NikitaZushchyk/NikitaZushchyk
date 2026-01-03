@@ -23,20 +23,3 @@ I enjoy turning complex problems into simple, elegant code. My main focus is **B
 **Frontend:**
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 🚀 What I'm up to
-
-- 🔭 Working on **[Military DB](https://github.com/NikitaZushchyk/military-db)** – a complex resource management system (Laravel + Vue).
-- 🌱 Exploring **Event-Driven Architecture** and microservices patterns.
-- ⚡ Obsessed with **Database Optimization** and fixing N+1 queries.
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikitaZushchyk&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Nikita's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaZushchyk&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
-</p>

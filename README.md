@@ -1,7 +1,6 @@
 ### Hey there!
 
 I'm a **Laravel Developer** who loves building things that work fast and look clean.
-Currently based in Ukraine 🇺🇦
 
 I enjoy turning complex problems into simple, elegant code. My main focus is **Backend**, but I can easily handle Frontend with **Vue.js** when needed.
 
